@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#wrap {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.color {
+	background-color: rgb(255, 49, 49);
+}
+
+header {
+	height: 100px;
+}
+
+.contents {
+	height: 600px;
+}
+
+
+
+footer {
+	height: 100px;
+}
